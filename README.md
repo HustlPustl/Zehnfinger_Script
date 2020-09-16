@@ -1,2 +1,2 @@
 # Zehnfinger_Script
-Zehnfinger_Script
+Zehnfinger Script
